@@ -1,0 +1,1082 @@
+[2026-01-14 14:17:03,135] INFO in logging_config: Logging system initialized
+[2026-01-14 14:26:24,136] INFO in logging_config: Logging system initialized
+[2026-01-14 14:30:51,371] INFO in logging_config: Logging system initialized
+[2026-01-14 14:30:51,568] INFO in app: Database tables created
+[2026-01-14 14:34:04,655] INFO in logging_config: Logging system initialized
+[2026-01-14 14:34:04,719] INFO in app: Database tables created
+[2026-01-14 15:23:29,941] INFO in logging_config: Logging system initialized
+[2026-01-14 15:23:30,005] INFO in app: Database tables created
+[2026-01-14 15:30:41,621] INFO in logging_config: Logging system initialized
+[2026-01-14 15:30:41,684] INFO in app: Database tables created
+[2026-01-14 15:41:06,561] INFO in logging_config: Logging system initialized
+[2026-01-14 15:41:06,774] INFO in app: Database tables created
+[2026-01-14 15:45:16,898] INFO in logging_config: Logging system initialized
+[2026-01-14 15:45:16,987] INFO in app: Database tables created
+[2026-01-14 15:47:39,309] INFO in logging_config: Logging system initialized
+[2026-01-14 15:47:39,482] INFO in app: Database tables created
+[2026-01-14 15:50:29,427] INFO in logging_config: Logging system initialized
+[2026-01-14 15:50:29,497] INFO in app: Database tables created
+[2026-01-14 15:52:50,225] INFO in logging_config: Logging system initialized
+[2026-01-14 15:52:50,281] INFO in app: Database tables created
+[2026-01-14 15:52:56,192] INFO in app: Application initialized in development mode
+[2026-01-14 15:52:56,196] INFO in run: ============================================================
+[2026-01-14 15:52:56,197] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-14 15:52:56,198] INFO in run: ============================================================
+[2026-01-14 15:52:56,199] INFO in run: Environment: development
+[2026-01-14 15:52:56,199] INFO in run: Debug Mode: True
+[2026-01-14 15:52:56,199] INFO in run: Model Version: 1.0.0
+[2026-01-14 15:52:56,199] INFO in run: Model Loaded: False
+[2026-01-14 15:52:56,199] INFO in run: Database: Connected
+[2026-01-14 15:52:56,199] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-14 15:52:56,199] INFO in run: ============================================================
+[2026-01-14 15:52:56,199] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-14 15:52:56,984] INFO in logging_config: Logging system initialized
+[2026-01-14 15:52:57,063] INFO in app: Database tables created
+[2026-01-14 15:53:04,148] INFO in app: Application initialized in development mode
+[2026-01-14 15:53:04,148] INFO in run: ============================================================
+[2026-01-14 15:53:04,148] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-14 15:53:04,148] INFO in run: ============================================================
+[2026-01-14 15:53:04,148] INFO in run: Environment: development
+[2026-01-14 15:53:04,148] INFO in run: Debug Mode: True
+[2026-01-14 15:53:04,159] INFO in run: Model Version: 1.0.0
+[2026-01-14 15:53:04,160] INFO in run: Model Loaded: False
+[2026-01-14 15:53:04,161] INFO in run: Database: Connected
+[2026-01-14 15:53:04,162] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-14 15:53:04,163] INFO in run: ============================================================
+[2026-01-14 15:53:04,165] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 08:19:13,864] INFO in logging_config: Logging system initialized
+[2026-01-15 08:19:13,940] INFO in app: Database tables created
+[2026-01-15 08:19:19,911] INFO in app: Application initialized in development mode
+[2026-01-15 08:19:19,912] INFO in run: ============================================================
+[2026-01-15 08:19:19,913] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 08:19:19,913] INFO in run: ============================================================
+[2026-01-15 08:19:19,915] INFO in run: Environment: development
+[2026-01-15 08:19:19,915] INFO in run: Debug Mode: True
+[2026-01-15 08:19:19,915] INFO in run: Model Version: 1.0.0
+[2026-01-15 08:19:19,916] INFO in run: Model Loaded: False
+[2026-01-15 08:19:19,916] INFO in run: Database: Connected
+[2026-01-15 08:19:19,917] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 08:19:19,917] INFO in run: ============================================================
+[2026-01-15 08:19:19,918] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 08:19:20,623] INFO in logging_config: Logging system initialized
+[2026-01-15 08:19:20,809] INFO in app: Database tables created
+[2026-01-15 08:19:26,756] INFO in app: Application initialized in development mode
+[2026-01-15 08:19:26,772] INFO in run: ============================================================
+[2026-01-15 08:19:26,774] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 08:19:26,775] INFO in run: ============================================================
+[2026-01-15 08:19:26,777] INFO in run: Environment: development
+[2026-01-15 08:19:26,777] INFO in run: Debug Mode: True
+[2026-01-15 08:19:26,777] INFO in run: Model Version: 1.0.0
+[2026-01-15 08:19:26,777] INFO in run: Model Loaded: False
+[2026-01-15 08:19:26,777] INFO in run: Database: Connected
+[2026-01-15 08:19:26,777] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 08:19:26,777] INFO in run: ============================================================
+[2026-01-15 08:19:26,777] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 08:25:30,668] INFO in logging_config: Logging system initialized
+[2026-01-15 08:25:30,922] INFO in app: Database tables created
+[2026-01-15 08:25:38,149] INFO in app: Application initialized in development mode
+[2026-01-15 08:25:38,149] INFO in run: ============================================================
+[2026-01-15 08:25:38,149] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 08:25:38,149] INFO in run: ============================================================
+[2026-01-15 08:25:38,149] INFO in run: Environment: development
+[2026-01-15 08:25:38,149] INFO in run: Debug Mode: True
+[2026-01-15 08:25:38,149] INFO in run: Model Version: 1.0.0
+[2026-01-15 08:25:38,149] INFO in run: Model Loaded: True
+[2026-01-15 08:25:38,161] INFO in run: Database: Connected
+[2026-01-15 08:25:38,162] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 08:25:38,163] INFO in run: ============================================================
+[2026-01-15 08:25:38,163] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 08:25:38,857] INFO in logging_config: Logging system initialized
+[2026-01-15 08:25:39,052] INFO in app: Database tables created
+[2026-01-15 08:25:45,302] INFO in app: Application initialized in development mode
+[2026-01-15 08:25:45,310] INFO in run: ============================================================
+[2026-01-15 08:25:45,310] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 08:25:45,310] INFO in run: ============================================================
+[2026-01-15 08:25:45,310] INFO in run: Environment: development
+[2026-01-15 08:25:45,310] INFO in run: Debug Mode: True
+[2026-01-15 08:25:45,310] INFO in run: Model Version: 1.0.0
+[2026-01-15 08:25:45,310] INFO in run: Model Loaded: True
+[2026-01-15 08:25:45,310] INFO in run: Database: Connected
+[2026-01-15 08:25:45,316] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 08:25:45,317] INFO in run: ============================================================
+[2026-01-15 08:25:45,317] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 08:30:37,548] INFO in logging_config: Logging system initialized
+[2026-01-15 08:30:37,742] INFO in app: Database tables created
+[2026-01-15 08:30:44,398] INFO in app: Application initialized in development mode
+[2026-01-15 08:30:44,399] INFO in run: ============================================================
+[2026-01-15 08:30:44,400] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 08:30:44,401] INFO in run: ============================================================
+[2026-01-15 08:30:44,402] INFO in run: Environment: development
+[2026-01-15 08:30:44,403] INFO in run: Debug Mode: True
+[2026-01-15 08:30:44,404] INFO in run: Model Version: 1.0.0
+[2026-01-15 08:30:44,406] INFO in run: Model Loaded: True
+[2026-01-15 08:30:44,407] INFO in run: Database: Connected
+[2026-01-15 08:30:44,408] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 08:30:44,408] INFO in run: ============================================================
+[2026-01-15 08:30:44,409] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 08:30:45,108] INFO in logging_config: Logging system initialized
+[2026-01-15 08:30:45,282] INFO in app: Database tables created
+[2026-01-15 08:30:52,040] INFO in app: Application initialized in development mode
+[2026-01-15 08:30:52,042] INFO in run: ============================================================
+[2026-01-15 08:30:52,046] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 08:30:52,051] INFO in run: ============================================================
+[2026-01-15 08:30:52,053] INFO in run: Environment: development
+[2026-01-15 08:30:52,058] INFO in run: Debug Mode: True
+[2026-01-15 08:30:52,058] INFO in run: Model Version: 1.0.0
+[2026-01-15 08:30:52,062] INFO in run: Model Loaded: True
+[2026-01-15 08:30:52,065] INFO in run: Database: Connected
+[2026-01-15 08:30:52,067] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 08:30:52,070] INFO in run: ============================================================
+[2026-01-15 08:30:52,073] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 08:50:06,033] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 08:51:02,880] INFO in logging_config: Logging system initialized
+[2026-01-15 08:51:02,971] INFO in app: Database tables created
+[2026-01-15 08:51:10,144] INFO in app: Application initialized in development mode
+[2026-01-15 08:51:10,144] INFO in run: ============================================================
+[2026-01-15 08:51:10,144] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 08:51:10,144] INFO in run: ============================================================
+[2026-01-15 08:51:10,144] INFO in run: Environment: development
+[2026-01-15 08:51:10,144] INFO in run: Debug Mode: True
+[2026-01-15 08:51:10,144] INFO in run: Model Version: 1.0.0
+[2026-01-15 08:51:10,156] INFO in run: Model Loaded: True
+[2026-01-15 08:51:10,158] INFO in run: Database: Connected
+[2026-01-15 08:51:10,158] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 08:51:10,159] INFO in run: ============================================================
+[2026-01-15 08:51:10,160] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 08:54:23,131] INFO in logging_config: Logging system initialized
+[2026-01-15 08:54:23,209] INFO in app: Database tables created
+[2026-01-15 08:54:30,764] INFO in app: Application initialized in development mode
+[2026-01-15 08:54:30,765] INFO in run: ============================================================
+[2026-01-15 08:54:30,766] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 08:54:30,768] INFO in run: ============================================================
+[2026-01-15 08:54:30,769] INFO in run: Environment: development
+[2026-01-15 08:54:30,771] INFO in run: Debug Mode: True
+[2026-01-15 08:54:30,772] INFO in run: Model Version: 1.0.0
+[2026-01-15 08:54:30,774] INFO in run: Model Loaded: True
+[2026-01-15 08:54:30,775] INFO in run: Database: Connected
+[2026-01-15 08:54:30,776] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 08:54:30,778] INFO in run: ============================================================
+[2026-01-15 08:54:30,779] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 09:10:07,368] INFO in logging_config: Logging system initialized
+[2026-01-15 09:10:07,479] INFO in app: Database tables created
+[2026-01-15 09:10:14,298] INFO in app: Application initialized in development mode
+[2026-01-15 09:10:14,298] INFO in run: ============================================================
+[2026-01-15 09:10:14,298] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 09:10:14,298] INFO in run: ============================================================
+[2026-01-15 09:10:14,298] INFO in run: Environment: development
+[2026-01-15 09:10:14,298] INFO in run: Debug Mode: True
+[2026-01-15 09:10:14,298] INFO in run: Model Version: 1.0.0
+[2026-01-15 09:10:14,298] INFO in run: Model Loaded: True
+[2026-01-15 09:10:14,298] INFO in run: Database: Connected
+[2026-01-15 09:10:14,298] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 09:10:14,313] INFO in run: ============================================================
+[2026-01-15 09:10:14,314] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 09:10:15,000] INFO in logging_config: Logging system initialized
+[2026-01-15 09:10:15,179] INFO in app: Database tables created
+[2026-01-15 09:10:21,794] INFO in app: Application initialized in development mode
+[2026-01-15 09:10:21,810] INFO in run: ============================================================
+[2026-01-15 09:10:21,810] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 09:10:21,810] INFO in run: ============================================================
+[2026-01-15 09:10:21,810] INFO in run: Environment: development
+[2026-01-15 09:10:21,810] INFO in run: Debug Mode: True
+[2026-01-15 09:10:21,810] INFO in run: Model Version: 1.0.0
+[2026-01-15 09:10:21,810] INFO in run: Model Loaded: True
+[2026-01-15 09:10:21,816] INFO in run: Database: Connected
+[2026-01-15 09:10:21,816] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 09:10:21,817] INFO in run: ============================================================
+[2026-01-15 09:10:21,817] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 09:10:53,293] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 09:11:12,388] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 09:38:24,372] INFO in logging_config: Logging system initialized
+[2026-01-15 09:38:24,442] INFO in app: Database tables created
+[2026-01-15 09:38:31,005] INFO in app: Application initialized in development mode
+[2026-01-15 09:38:31,005] INFO in run: ============================================================
+[2026-01-15 09:38:31,005] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 09:38:31,017] INFO in run: ============================================================
+[2026-01-15 09:38:31,017] INFO in run: Environment: development
+[2026-01-15 09:38:31,017] INFO in run: Debug Mode: True
+[2026-01-15 09:38:31,017] INFO in run: Model Version: 1.0.0
+[2026-01-15 09:38:31,021] INFO in run: Model Loaded: True
+[2026-01-15 09:38:31,022] INFO in run: Database: Connected
+[2026-01-15 09:38:31,023] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 09:38:31,024] INFO in run: ============================================================
+[2026-01-15 09:38:31,025] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 09:38:31,752] INFO in logging_config: Logging system initialized
+[2026-01-15 09:38:31,826] INFO in app: Database tables created
+[2026-01-15 09:38:38,731] INFO in app: Application initialized in development mode
+[2026-01-15 09:38:38,731] INFO in run: ============================================================
+[2026-01-15 09:38:38,731] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 09:38:38,747] INFO in run: ============================================================
+[2026-01-15 09:38:38,747] INFO in run: Environment: development
+[2026-01-15 09:38:38,747] INFO in run: Debug Mode: True
+[2026-01-15 09:38:38,747] INFO in run: Model Version: 1.0.0
+[2026-01-15 09:38:38,751] INFO in run: Model Loaded: True
+[2026-01-15 09:38:38,751] INFO in run: Database: Connected
+[2026-01-15 09:38:38,752] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 09:38:38,753] INFO in run: ============================================================
+[2026-01-15 09:38:38,754] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 09:38:58,381] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 09:39:59,530] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 09:47:06,927] INFO in logging_config: Logging system initialized
+[2026-01-15 09:47:07,003] INFO in app: Database tables created
+[2026-01-15 09:47:13,851] INFO in app: Application initialized in development mode
+[2026-01-15 09:47:13,851] INFO in run: ============================================================
+[2026-01-15 09:47:13,851] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 09:47:13,854] INFO in run: ============================================================
+[2026-01-15 09:47:13,854] INFO in run: Environment: development
+[2026-01-15 09:47:13,854] INFO in run: Debug Mode: True
+[2026-01-15 09:47:13,854] INFO in run: Model Version: 1.0.0
+[2026-01-15 09:47:13,858] INFO in run: Model Loaded: True
+[2026-01-15 09:47:13,859] INFO in run: Database: Connected
+[2026-01-15 09:47:13,860] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 09:47:13,860] INFO in run: ============================================================
+[2026-01-15 09:47:13,862] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 09:47:14,579] INFO in logging_config: Logging system initialized
+[2026-01-15 09:47:14,653] INFO in app: Database tables created
+[2026-01-15 09:47:20,717] INFO in app: Application initialized in development mode
+[2026-01-15 09:47:20,717] INFO in run: ============================================================
+[2026-01-15 09:47:20,717] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 09:47:20,722] INFO in run: ============================================================
+[2026-01-15 09:47:20,722] INFO in run: Environment: development
+[2026-01-15 09:47:20,722] INFO in run: Debug Mode: True
+[2026-01-15 09:47:20,726] INFO in run: Model Version: 1.0.0
+[2026-01-15 09:47:20,727] INFO in run: Model Loaded: True
+[2026-01-15 09:47:20,728] INFO in run: Database: Connected
+[2026-01-15 09:47:20,729] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 09:47:20,731] INFO in run: ============================================================
+[2026-01-15 09:47:20,733] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 09:47:43,941] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 09:47:48,638] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 09:47:58,403] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 09:50:58,512] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 09:56:43,859] INFO in logging_config: Logging system initialized
+[2026-01-15 09:56:43,935] INFO in app: Database tables created
+[2026-01-15 09:56:50,780] INFO in app: Application initialized in development mode
+[2026-01-15 09:56:50,780] INFO in run: ============================================================
+[2026-01-15 09:56:50,780] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 09:56:50,780] INFO in run: ============================================================
+[2026-01-15 09:56:50,780] INFO in run: Environment: development
+[2026-01-15 09:56:50,780] INFO in run: Debug Mode: True
+[2026-01-15 09:56:50,780] INFO in run: Model Version: 1.0.0
+[2026-01-15 09:56:50,787] INFO in run: Model Loaded: True
+[2026-01-15 09:56:50,788] INFO in run: Database: Connected
+[2026-01-15 09:56:50,788] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 09:56:50,790] INFO in run: ============================================================
+[2026-01-15 09:56:50,790] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 09:56:51,469] INFO in logging_config: Logging system initialized
+[2026-01-15 09:56:51,538] INFO in app: Database tables created
+[2026-01-15 09:56:58,290] INFO in app: Application initialized in development mode
+[2026-01-15 09:56:58,290] INFO in run: ============================================================
+[2026-01-15 09:56:58,290] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 09:56:58,290] INFO in run: ============================================================
+[2026-01-15 09:56:58,290] INFO in run: Environment: development
+[2026-01-15 09:56:58,290] INFO in run: Debug Mode: True
+[2026-01-15 09:56:58,290] INFO in run: Model Version: 1.0.0
+[2026-01-15 09:56:58,290] INFO in run: Model Loaded: True
+[2026-01-15 09:56:58,290] INFO in run: Database: Connected
+[2026-01-15 09:56:58,290] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 09:56:58,301] INFO in run: ============================================================
+[2026-01-15 09:56:58,301] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 09:57:45,827] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 10:06:48,579] INFO in logging_config: Logging system initialized
+[2026-01-15 10:06:48,658] INFO in app: Database tables created
+[2026-01-15 10:06:55,225] INFO in app: Application initialized in development mode
+[2026-01-15 10:06:55,225] INFO in run: ============================================================
+[2026-01-15 10:06:55,225] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:06:55,225] INFO in run: ============================================================
+[2026-01-15 10:06:55,241] INFO in run: Environment: development
+[2026-01-15 10:06:55,241] INFO in run: Debug Mode: True
+[2026-01-15 10:06:55,241] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:06:55,241] INFO in run: Model Loaded: True
+[2026-01-15 10:06:55,241] INFO in run: Database: Connected
+[2026-01-15 10:06:55,241] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:06:55,241] INFO in run: ============================================================
+[2026-01-15 10:06:55,241] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:06:56,027] INFO in logging_config: Logging system initialized
+[2026-01-15 10:06:56,119] INFO in app: Database tables created
+[2026-01-15 10:07:03,705] INFO in app: Application initialized in development mode
+[2026-01-15 10:07:03,705] INFO in run: ============================================================
+[2026-01-15 10:07:03,705] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:07:03,705] INFO in run: ============================================================
+[2026-01-15 10:07:03,705] INFO in run: Environment: development
+[2026-01-15 10:07:03,705] INFO in run: Debug Mode: True
+[2026-01-15 10:07:03,705] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:07:03,718] INFO in run: Model Loaded: True
+[2026-01-15 10:07:03,719] INFO in run: Database: Connected
+[2026-01-15 10:07:03,720] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:07:03,721] INFO in run: ============================================================
+[2026-01-15 10:07:03,723] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:07:29,016] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 10:08:28,761] INFO in logging_config: Logging system initialized
+[2026-01-15 10:08:28,830] INFO in app: Database tables created
+[2026-01-15 10:08:35,716] INFO in app: Application initialized in development mode
+[2026-01-15 10:08:35,716] INFO in run: ============================================================
+[2026-01-15 10:08:35,716] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:08:35,716] INFO in run: ============================================================
+[2026-01-15 10:08:35,716] INFO in run: Environment: development
+[2026-01-15 10:08:35,716] INFO in run: Debug Mode: True
+[2026-01-15 10:08:35,731] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:08:35,732] INFO in run: Model Loaded: True
+[2026-01-15 10:08:35,733] INFO in run: Database: Connected
+[2026-01-15 10:08:35,734] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:08:35,734] INFO in run: ============================================================
+[2026-01-15 10:08:35,735] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:08:36,427] INFO in logging_config: Logging system initialized
+[2026-01-15 10:08:36,519] INFO in app: Database tables created
+[2026-01-15 10:08:43,268] INFO in app: Application initialized in development mode
+[2026-01-15 10:08:43,268] INFO in run: ============================================================
+[2026-01-15 10:08:43,278] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:08:43,278] INFO in run: ============================================================
+[2026-01-15 10:08:43,278] INFO in run: Environment: development
+[2026-01-15 10:08:43,278] INFO in run: Debug Mode: True
+[2026-01-15 10:08:43,283] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:08:43,284] INFO in run: Model Loaded: True
+[2026-01-15 10:08:43,285] INFO in run: Database: Connected
+[2026-01-15 10:08:43,286] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:08:43,287] INFO in run: ============================================================
+[2026-01-15 10:08:43,288] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:09:00,737] ERROR in routes: Prediction error: The truth value of an array with more than one element is ambiguous. Use a.any() or a.all()
+[2026-01-15 10:17:45,910] INFO in logging_config: Logging system initialized
+[2026-01-15 10:17:45,981] INFO in app: Database tables created
+[2026-01-15 10:17:53,492] INFO in app: Application initialized in development mode
+[2026-01-15 10:17:53,493] INFO in run: ============================================================
+[2026-01-15 10:17:53,493] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:17:53,493] INFO in run: ============================================================
+[2026-01-15 10:17:53,493] INFO in run: Environment: development
+[2026-01-15 10:17:53,493] INFO in run: Debug Mode: True
+[2026-01-15 10:17:53,493] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:17:53,493] INFO in run: Model Loaded: True
+[2026-01-15 10:17:53,493] INFO in run: Database: Connected
+[2026-01-15 10:17:53,493] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:17:53,493] INFO in run: ============================================================
+[2026-01-15 10:17:53,493] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:19:06,720] INFO in logging_config: Logging system initialized
+[2026-01-15 10:19:06,826] INFO in app: Database tables created
+[2026-01-15 10:19:13,358] INFO in app: Application initialized in development mode
+[2026-01-15 10:19:13,358] INFO in run: ============================================================
+[2026-01-15 10:19:13,358] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:19:13,358] INFO in run: ============================================================
+[2026-01-15 10:19:13,358] INFO in run: Environment: development
+[2026-01-15 10:19:13,358] INFO in run: Debug Mode: True
+[2026-01-15 10:19:13,358] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:19:13,358] INFO in run: Model Loaded: True
+[2026-01-15 10:19:13,367] INFO in run: Database: Connected
+[2026-01-15 10:19:13,368] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:19:13,368] INFO in run: ============================================================
+[2026-01-15 10:19:13,369] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:21:21,186] INFO in logging_config: Logging system initialized
+[2026-01-15 10:21:21,252] INFO in app: Database tables created
+[2026-01-15 10:21:27,528] INFO in app: Application initialized in development mode
+[2026-01-15 10:21:27,528] INFO in run: ============================================================
+[2026-01-15 10:21:27,528] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:21:27,528] INFO in run: ============================================================
+[2026-01-15 10:21:27,528] INFO in run: Environment: development
+[2026-01-15 10:21:27,535] INFO in run: Debug Mode: True
+[2026-01-15 10:21:27,536] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:21:27,536] INFO in run: Model Loaded: True
+[2026-01-15 10:21:27,537] INFO in run: Database: Connected
+[2026-01-15 10:21:27,538] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:21:27,538] INFO in run: ============================================================
+[2026-01-15 10:21:27,540] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:21:28,189] INFO in logging_config: Logging system initialized
+[2026-01-15 10:21:28,258] INFO in app: Database tables created
+[2026-01-15 10:21:34,358] INFO in app: Application initialized in development mode
+[2026-01-15 10:21:34,358] INFO in run: ============================================================
+[2026-01-15 10:21:34,358] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:21:34,358] INFO in run: ============================================================
+[2026-01-15 10:21:34,358] INFO in run: Environment: development
+[2026-01-15 10:21:34,358] INFO in run: Debug Mode: True
+[2026-01-15 10:21:34,358] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:21:34,358] INFO in run: Model Loaded: True
+[2026-01-15 10:21:34,366] INFO in run: Database: Connected
+[2026-01-15 10:21:34,368] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:21:34,369] INFO in run: ============================================================
+[2026-01-15 10:21:34,370] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:22:03,177] ERROR in routes: Prediction error: 'Config' object has no attribute 'HIGH_RISK_THRESHOLD'
+[2026-01-15 10:34:04,499] INFO in logging_config: Logging system initialized
+[2026-01-15 10:34:04,564] INFO in app: Database tables created
+[2026-01-15 10:34:11,322] INFO in app: Application initialized in development mode
+[2026-01-15 10:34:11,322] INFO in run: ============================================================
+[2026-01-15 10:34:11,322] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:34:11,322] INFO in run: ============================================================
+[2026-01-15 10:34:11,322] INFO in run: Environment: development
+[2026-01-15 10:34:11,322] INFO in run: Debug Mode: True
+[2026-01-15 10:34:11,336] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:34:11,338] INFO in run: Model Loaded: True
+[2026-01-15 10:34:11,339] INFO in run: Database: Connected
+[2026-01-15 10:34:11,341] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:34:11,342] INFO in run: ============================================================
+[2026-01-15 10:34:11,344] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:34:12,103] INFO in logging_config: Logging system initialized
+[2026-01-15 10:34:12,224] INFO in app: Database tables created
+[2026-01-15 10:34:19,968] INFO in app: Application initialized in development mode
+[2026-01-15 10:34:19,968] INFO in run: ============================================================
+[2026-01-15 10:34:19,968] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:34:19,968] INFO in run: ============================================================
+[2026-01-15 10:34:19,968] INFO in run: Environment: development
+[2026-01-15 10:34:19,968] INFO in run: Debug Mode: True
+[2026-01-15 10:34:19,981] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:34:19,982] INFO in run: Model Loaded: True
+[2026-01-15 10:34:19,982] INFO in run: Database: Connected
+[2026-01-15 10:34:19,983] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:34:19,984] INFO in run: ============================================================
+[2026-01-15 10:34:19,985] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:34:43,642] ERROR in routes: Prediction error: 'Config' object has no attribute 'MEDIUM_RISK_THRESHOLD'
+[2026-01-15 10:36:21,057] INFO in logging_config: Logging system initialized
+[2026-01-15 10:36:21,257] INFO in app: Database tables created
+[2026-01-15 10:36:28,924] INFO in app: Application initialized in development mode
+[2026-01-15 10:36:28,926] INFO in run: ============================================================
+[2026-01-15 10:36:28,927] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:36:28,927] INFO in run: ============================================================
+[2026-01-15 10:36:28,927] INFO in run: Environment: development
+[2026-01-15 10:36:28,927] INFO in run: Debug Mode: True
+[2026-01-15 10:36:28,927] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:36:28,927] INFO in run: Model Loaded: True
+[2026-01-15 10:36:28,927] INFO in run: Database: Connected
+[2026-01-15 10:36:28,927] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:36:28,927] INFO in run: ============================================================
+[2026-01-15 10:36:28,927] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:36:29,925] ERROR in routes: Prediction error: 'Config' object has no attribute 'MEDIUM_RISK_THRESHOLD'
+[2026-01-15 10:37:53,104] INFO in logging_config: Logging system initialized
+[2026-01-15 10:37:53,188] INFO in app: Database tables created
+[2026-01-15 10:37:59,236] INFO in app: Application initialized in development mode
+[2026-01-15 10:37:59,236] INFO in run: ============================================================
+[2026-01-15 10:37:59,236] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:37:59,236] INFO in run: ============================================================
+[2026-01-15 10:37:59,236] INFO in run: Environment: development
+[2026-01-15 10:37:59,236] INFO in run: Debug Mode: True
+[2026-01-15 10:37:59,242] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:37:59,244] INFO in run: Model Loaded: True
+[2026-01-15 10:37:59,244] INFO in run: Database: Connected
+[2026-01-15 10:37:59,244] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:37:59,247] INFO in run: ============================================================
+[2026-01-15 10:37:59,248] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:37:59,889] INFO in logging_config: Logging system initialized
+[2026-01-15 10:37:59,951] INFO in app: Database tables created
+[2026-01-15 10:38:05,878] INFO in app: Application initialized in development mode
+[2026-01-15 10:38:05,878] INFO in run: ============================================================
+[2026-01-15 10:38:05,878] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:38:05,878] INFO in run: ============================================================
+[2026-01-15 10:38:05,894] INFO in run: Environment: development
+[2026-01-15 10:38:05,894] INFO in run: Debug Mode: True
+[2026-01-15 10:38:05,897] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:38:05,898] INFO in run: Model Loaded: True
+[2026-01-15 10:38:05,899] INFO in run: Database: Connected
+[2026-01-15 10:38:05,899] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:38:05,899] INFO in run: ============================================================
+[2026-01-15 10:38:05,904] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:38:17,472] ERROR in routes: Prediction error: 'Config' object has no attribute 'MEDIUM_RISK_THRESHOLD'
+[2026-01-15 10:39:35,544] INFO in logging_config: Logging system initialized
+[2026-01-15 10:39:35,731] INFO in app: Database tables created
+[2026-01-15 10:39:42,333] INFO in app: Application initialized in development mode
+[2026-01-15 10:39:42,349] INFO in run: ============================================================
+[2026-01-15 10:39:42,349] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:39:42,349] INFO in run: ============================================================
+[2026-01-15 10:39:42,349] INFO in run: Environment: development
+[2026-01-15 10:39:42,349] INFO in run: Debug Mode: True
+[2026-01-15 10:39:42,356] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:39:42,356] INFO in run: Model Loaded: True
+[2026-01-15 10:39:42,358] INFO in run: Database: Connected
+[2026-01-15 10:39:42,359] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:39:42,360] INFO in run: ============================================================
+[2026-01-15 10:39:42,361] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:39:43,008] INFO in logging_config: Logging system initialized
+[2026-01-15 10:39:43,080] INFO in app: Database tables created
+[2026-01-15 10:39:49,072] INFO in app: Application initialized in development mode
+[2026-01-15 10:39:49,072] INFO in run: ============================================================
+[2026-01-15 10:39:49,072] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:39:49,088] INFO in run: ============================================================
+[2026-01-15 10:39:49,088] INFO in run: Environment: development
+[2026-01-15 10:39:49,088] INFO in run: Debug Mode: True
+[2026-01-15 10:39:49,088] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:39:49,088] INFO in run: Model Loaded: True
+[2026-01-15 10:39:49,093] INFO in run: Database: Connected
+[2026-01-15 10:39:49,094] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:39:49,096] INFO in run: ============================================================
+[2026-01-15 10:39:49,096] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:40:02,938] ERROR in routes: Prediction error: 'Config' object has no attribute 'MEDIUM_RISK_THRESHOLD'
+[2026-01-15 10:45:41,424] INFO in logging_config: Logging system initialized
+[2026-01-15 10:45:41,608] INFO in app: Database tables created
+[2026-01-15 10:45:48,030] INFO in app: Application initialized in development mode
+[2026-01-15 10:45:48,030] INFO in run: ============================================================
+[2026-01-15 10:45:48,030] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:45:48,030] INFO in run: ============================================================
+[2026-01-15 10:45:48,030] INFO in run: Environment: development
+[2026-01-15 10:45:48,030] INFO in run: Debug Mode: True
+[2026-01-15 10:45:48,030] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:45:48,037] INFO in run: Model Loaded: True
+[2026-01-15 10:45:48,039] INFO in run: Database: Connected
+[2026-01-15 10:45:48,039] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:45:48,041] INFO in run: ============================================================
+[2026-01-15 10:45:48,042] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:45:48,704] INFO in logging_config: Logging system initialized
+[2026-01-15 10:45:48,766] INFO in app: Database tables created
+[2026-01-15 10:45:55,134] INFO in app: Application initialized in development mode
+[2026-01-15 10:45:55,134] INFO in run: ============================================================
+[2026-01-15 10:45:55,134] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 10:45:55,134] INFO in run: ============================================================
+[2026-01-15 10:45:55,150] INFO in run: Environment: development
+[2026-01-15 10:45:55,150] INFO in run: Debug Mode: True
+[2026-01-15 10:45:55,150] INFO in run: Model Version: 1.0.0
+[2026-01-15 10:45:55,154] INFO in run: Model Loaded: True
+[2026-01-15 10:45:55,154] INFO in run: Database: Connected
+[2026-01-15 10:45:55,155] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 10:45:55,156] INFO in run: ============================================================
+[2026-01-15 10:45:55,157] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 10:46:17,349] ERROR in routes: Prediction error: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (1, 2026-01-15 08:46:17.331931, Transformer_01, [[5000], [15200], [14800], [15500], [16000], [16200], [15900], [..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 8, 46, 17, 331931), 'asset_id': 'Transformer_01', 'historical_load': '[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 10:46:43,359] ERROR in routes: Prediction error: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (2, 2026-01-15 08:46:43.359097, Transformer_01, [[5000], [15200], [14800], [15500], [16000], [16200], [15900], [..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 8, 46, 43, 359097), 'asset_id': 'Transformer_01', 'historical_load': '[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:03:04,673] INFO in logging_config: Logging system initialized
+[2026-01-15 11:03:04,734] INFO in app: Database tables created
+[2026-01-15 11:03:12,479] INFO in app: Application initialized in development mode
+[2026-01-15 11:03:12,479] INFO in run: ============================================================
+[2026-01-15 11:03:12,479] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:03:12,479] INFO in run: ============================================================
+[2026-01-15 11:03:12,479] INFO in run: Environment: development
+[2026-01-15 11:03:12,479] INFO in run: Debug Mode: True
+[2026-01-15 11:03:12,479] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:03:12,495] INFO in run: Model Loaded: True
+[2026-01-15 11:03:12,496] INFO in run: Database: Connected
+[2026-01-15 11:03:12,497] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:03:12,498] INFO in run: ============================================================
+[2026-01-15 11:03:12,499] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:11:05,851] INFO in logging_config: Logging system initialized
+[2026-01-15 11:11:05,920] INFO in app: Database tables created
+[2026-01-15 11:11:13,401] INFO in app: Application initialized in development mode
+[2026-01-15 11:11:13,401] INFO in run: ============================================================
+[2026-01-15 11:11:13,401] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:11:13,401] INFO in run: ============================================================
+[2026-01-15 11:11:13,401] INFO in run: Environment: development
+[2026-01-15 11:11:13,401] INFO in run: Debug Mode: True
+[2026-01-15 11:11:13,401] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:11:13,401] INFO in run: Model Loaded: True
+[2026-01-15 11:11:13,408] INFO in run: Database: Connected
+[2026-01-15 11:11:13,408] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:11:13,409] INFO in run: ============================================================
+[2026-01-15 11:11:13,409] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:11:14,047] INFO in logging_config: Logging system initialized
+[2026-01-15 11:11:14,113] INFO in app: Database tables created
+[2026-01-15 11:11:20,066] INFO in app: Application initialized in development mode
+[2026-01-15 11:11:20,069] INFO in run: ============================================================
+[2026-01-15 11:11:20,069] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:11:20,069] INFO in run: ============================================================
+[2026-01-15 11:11:20,069] INFO in run: Environment: development
+[2026-01-15 11:11:20,069] INFO in run: Debug Mode: True
+[2026-01-15 11:11:20,074] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:11:20,076] INFO in run: Model Loaded: True
+[2026-01-15 11:11:20,077] INFO in run: Database: Connected
+[2026-01-15 11:11:20,078] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:11:20,079] INFO in run: ============================================================
+[2026-01-15 11:11:20,080] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:12:02,787] ERROR in routes: Database Save Error: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (3, 2026-01-15 09:12:02.771159, Transformer_01, "[[5000], [15200], [14800], [15500], [16000], [16200], [15900], ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 12, 2, 771159), 'asset_id': 'Transformer_01', 'historical_load': '"[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:16:10,387] INFO in logging_config: Logging system initialized
+[2026-01-15 11:16:10,472] INFO in app: Database tables created
+[2026-01-15 11:16:17,663] INFO in app: Application initialized in development mode
+[2026-01-15 11:16:17,663] INFO in run: ============================================================
+[2026-01-15 11:16:17,663] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:16:17,679] INFO in run: ============================================================
+[2026-01-15 11:16:17,681] INFO in run: Environment: development
+[2026-01-15 11:16:17,681] INFO in run: Debug Mode: True
+[2026-01-15 11:16:17,685] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:16:17,686] INFO in run: Model Loaded: True
+[2026-01-15 11:16:17,688] INFO in run: Database: Connected
+[2026-01-15 11:16:17,690] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:16:17,691] INFO in run: ============================================================
+[2026-01-15 11:16:17,694] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:16:18,418] INFO in logging_config: Logging system initialized
+[2026-01-15 11:16:18,514] INFO in app: Database tables created
+[2026-01-15 11:16:24,831] INFO in app: Application initialized in development mode
+[2026-01-15 11:16:24,831] INFO in run: ============================================================
+[2026-01-15 11:16:24,831] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:16:24,831] INFO in run: ============================================================
+[2026-01-15 11:16:24,831] INFO in run: Environment: development
+[2026-01-15 11:16:24,831] INFO in run: Debug Mode: True
+[2026-01-15 11:16:24,831] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:16:24,831] INFO in run: Model Loaded: True
+[2026-01-15 11:16:24,843] INFO in run: Database: Connected
+[2026-01-15 11:16:24,845] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:16:24,845] INFO in run: ============================================================
+[2026-01-15 11:16:24,847] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:16:38,928] ERROR in routes: Database Save Error: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (4, 2026-01-15 09:16:38.912161, Transformer_01, "[[5000], [15200], [14800], [15500], [16000], [16200], [15900], ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 16, 38, 912161), 'asset_id': 'Transformer_01', 'historical_load': '"[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:16:43,877] ERROR in routes: Database Save Error: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (5, 2026-01-15 09:16:43.87745, Transformer_01, "[[5000], [15200], [14800], [15500], [16000], [16200], [15900], ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 16, 43, 877450), 'asset_id': 'Transformer_01', 'historical_load': '"[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:22:11,329] INFO in logging_config: Logging system initialized
+[2026-01-15 11:22:11,405] INFO in app: Database tables created
+[2026-01-15 11:22:18,859] INFO in app: Application initialized in development mode
+[2026-01-15 11:22:18,860] INFO in run: ============================================================
+[2026-01-15 11:22:18,861] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:22:18,862] INFO in run: ============================================================
+[2026-01-15 11:22:18,863] INFO in run: Environment: development
+[2026-01-15 11:22:18,864] INFO in run: Debug Mode: True
+[2026-01-15 11:22:18,867] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:22:18,867] INFO in run: Model Loaded: True
+[2026-01-15 11:22:18,869] INFO in run: Database: Connected
+[2026-01-15 11:22:18,869] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:22:18,870] INFO in run: ============================================================
+[2026-01-15 11:22:18,871] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:22:19,607] INFO in logging_config: Logging system initialized
+[2026-01-15 11:22:19,676] INFO in app: Database tables created
+[2026-01-15 11:22:26,438] INFO in app: Application initialized in development mode
+[2026-01-15 11:22:26,438] INFO in run: ============================================================
+[2026-01-15 11:22:26,438] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:22:26,438] INFO in run: ============================================================
+[2026-01-15 11:22:26,438] INFO in run: Environment: development
+[2026-01-15 11:22:26,438] INFO in run: Debug Mode: True
+[2026-01-15 11:22:26,438] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:22:26,446] INFO in run: Model Loaded: True
+[2026-01-15 11:22:26,447] INFO in run: Database: Connected
+[2026-01-15 11:22:26,448] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:22:26,448] INFO in run: ============================================================
+[2026-01-15 11:22:26,449] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:22:37,459] ERROR in routes: DATABASE REJECTED DATA: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (6, 2026-01-15 09:22:37.459472, Transformer_01, "[[5000], [15200], [14800], [15500], [16000], [16200], [15900], ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 22, 37, 459472), 'asset_id': 'Transformer_01', 'historical_load': '"[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:23:29,559] INFO in logging_config: Logging system initialized
+[2026-01-15 11:23:29,626] INFO in app: Database tables created
+[2026-01-15 11:23:36,139] INFO in app: Application initialized in development mode
+[2026-01-15 11:23:36,139] INFO in run: ============================================================
+[2026-01-15 11:23:36,155] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:23:36,155] INFO in run: ============================================================
+[2026-01-15 11:23:36,155] INFO in run: Environment: development
+[2026-01-15 11:23:36,155] INFO in run: Debug Mode: True
+[2026-01-15 11:23:36,161] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:23:36,162] INFO in run: Model Loaded: True
+[2026-01-15 11:23:36,163] INFO in run: Database: Connected
+[2026-01-15 11:23:36,164] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:23:36,165] INFO in run: ============================================================
+[2026-01-15 11:23:36,167] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:23:36,833] INFO in logging_config: Logging system initialized
+[2026-01-15 11:23:37,025] INFO in app: Database tables created
+[2026-01-15 11:23:43,364] INFO in app: Application initialized in development mode
+[2026-01-15 11:23:43,364] INFO in run: ============================================================
+[2026-01-15 11:23:43,364] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:23:43,364] INFO in run: ============================================================
+[2026-01-15 11:23:43,364] INFO in run: Environment: development
+[2026-01-15 11:23:43,364] INFO in run: Debug Mode: True
+[2026-01-15 11:23:43,364] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:23:43,372] INFO in run: Model Loaded: True
+[2026-01-15 11:23:43,373] INFO in run: Database: Connected
+[2026-01-15 11:23:43,374] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:23:43,375] INFO in run: ============================================================
+[2026-01-15 11:23:43,376] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:23:57,716] ERROR in routes: DATABASE REJECTED DATA: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (7, 2026-01-15 09:23:57.7163, Transformer_01, "[[5000], [15200], [14800], [15500], [16000], [16200], [15900], ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 23, 57, 716300), 'asset_id': 'Transformer_01', 'historical_load': '"[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:36:49,294] INFO in logging_config: Logging system initialized
+[2026-01-15 11:36:49,462] INFO in app: Database tables created
+[2026-01-15 11:36:56,611] INFO in app: Application initialized in development mode
+[2026-01-15 11:36:56,611] INFO in run: ============================================================
+[2026-01-15 11:36:56,611] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:36:56,611] INFO in run: ============================================================
+[2026-01-15 11:36:56,611] INFO in run: Environment: development
+[2026-01-15 11:36:56,627] INFO in run: Debug Mode: True
+[2026-01-15 11:36:56,628] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:36:56,630] INFO in run: Model Loaded: True
+[2026-01-15 11:36:56,631] INFO in run: Database: Connected
+[2026-01-15 11:36:56,632] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:36:56,632] INFO in run: ============================================================
+[2026-01-15 11:36:56,633] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:36:57,305] INFO in logging_config: Logging system initialized
+[2026-01-15 11:36:57,385] INFO in app: Database tables created
+[2026-01-15 11:37:03,990] INFO in app: Application initialized in development mode
+[2026-01-15 11:37:03,990] INFO in run: ============================================================
+[2026-01-15 11:37:03,990] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:37:03,990] INFO in run: ============================================================
+[2026-01-15 11:37:03,990] INFO in run: Environment: development
+[2026-01-15 11:37:03,990] INFO in run: Debug Mode: True
+[2026-01-15 11:37:03,990] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:37:04,002] INFO in run: Model Loaded: True
+[2026-01-15 11:37:04,004] INFO in run: Database: Connected
+[2026-01-15 11:37:04,006] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:37:04,008] INFO in run: ============================================================
+[2026-01-15 11:37:04,008] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:37:35,014] ERROR in routes: DATABASE REJECTED DATA: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (8, 2026-01-15 09:37:34.997507, Transformer_01, "[[5000], [15200], [14800], [15500], [16000], [16200], [15900], ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 37, 34, 997507), 'asset_id': 'Transformer_01', 'historical_load': '"[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:38:59,220] ERROR in routes: DATABASE REJECTED DATA: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (9, 2026-01-15 09:38:59.215336, Transformer_01, "[[5000], [15200], [14800], [15500], [16000], [16200], [15900], ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 38, 59, 215336), 'asset_id': 'Transformer_01', 'historical_load': '"[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:39:31,232] ERROR in routes: DATABASE REJECTED DATA: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (10, 2026-01-15 09:39:31.229068, Transformer_01, "[[5000], [15200], [14800], [15500], [16000], [16200], [15900], ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 39, 31, 229068), 'asset_id': 'Transformer_01', 'historical_load': '"[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:39:59,963] ERROR in routes: DATABASE REJECTED DATA: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (11, 2026-01-15 09:39:59.96036, Transformer_01, "[[5000], [15200], [14800], [15500], [16000], [16200], [15900], ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 39, 59, 960360), 'asset_id': 'Transformer_01', 'historical_load': '"[[5000], [15200], [14800], [15500], [16000], [16200], [15900], [15700], [15000], [14500], [14200], [14000], [14500], [15000], [16000], [17000], [17500], [18000], [17800], [17500], [17000], [16500], [16000], [15500]]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:46:40,461] INFO in logging_config: Logging system initialized
+[2026-01-15 11:46:40,532] INFO in app: Database tables created
+[2026-01-15 11:46:48,096] INFO in app: Application initialized in development mode
+[2026-01-15 11:46:48,111] INFO in run: ============================================================
+[2026-01-15 11:46:48,111] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:46:48,111] INFO in run: ============================================================
+[2026-01-15 11:46:48,111] INFO in run: Environment: development
+[2026-01-15 11:46:48,111] INFO in run: Debug Mode: True
+[2026-01-15 11:46:48,111] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:46:48,117] INFO in run: Model Loaded: True
+[2026-01-15 11:46:48,118] INFO in run: Database: Connected
+[2026-01-15 11:46:48,119] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:46:48,120] INFO in run: ============================================================
+[2026-01-15 11:46:48,121] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:46:48,810] INFO in logging_config: Logging system initialized
+[2026-01-15 11:46:48,996] INFO in app: Database tables created
+[2026-01-15 11:46:55,061] INFO in app: Application initialized in development mode
+[2026-01-15 11:46:55,061] INFO in run: ============================================================
+[2026-01-15 11:46:55,061] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:46:55,061] INFO in run: ============================================================
+[2026-01-15 11:46:55,061] INFO in run: Environment: development
+[2026-01-15 11:46:55,061] INFO in run: Debug Mode: True
+[2026-01-15 11:46:55,061] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:46:55,061] INFO in run: Model Loaded: True
+[2026-01-15 11:46:55,061] INFO in run: Database: Connected
+[2026-01-15 11:46:55,070] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:46:55,071] INFO in run: ============================================================
+[2026-01-15 11:46:55,071] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:47:18,179] ERROR in routes: DB Error: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (12, 2026-01-15 09:47:18.172434, Transformer_01, "[5000, 15200, 14800, 15500, 16000, 16200, 15900, 15700, 15000, ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 47, 18, 172434), 'asset_id': 'Transformer_01', 'historical_load': '"[5000, 15200, 14800, 15500, 16000, 16200, 15900, 15700, 15000, 14500, 14200, 14000, 14500, 15000, 16000, 17000, 17500, 18000, 17800, 17500, 17000, 16500, 16000, 15500]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:47:24,518] ERROR in routes: DB Error: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (13, 2026-01-15 09:47:24.518082, Transformer_01, "[5000, 15200, 14800, 15500, 16000, 16200, 15900, 15700, 15000, ..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 47, 24, 518082), 'asset_id': 'Transformer_01', 'historical_load': '"[5000, 15200, 14800, 15500, 16000, 16200, 15900, 15700, 15000, 14500, 14200, 14000, 14500, 15000, 16000, 17000, 17500, 18000, 17800, 17500, 17000, 16500, 16000, 15500]"', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 11:51:22,750] INFO in logging_config: Logging system initialized
+[2026-01-15 11:51:22,919] INFO in app: Database tables created
+[2026-01-15 11:51:29,825] INFO in app: Application initialized in development mode
+[2026-01-15 11:51:29,825] INFO in run: ============================================================
+[2026-01-15 11:51:29,825] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:51:29,825] INFO in run: ============================================================
+[2026-01-15 11:51:29,825] INFO in run: Environment: development
+[2026-01-15 11:51:29,825] INFO in run: Debug Mode: True
+[2026-01-15 11:51:29,825] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:51:29,835] INFO in run: Model Loaded: True
+[2026-01-15 11:51:29,837] INFO in run: Database: Connected
+[2026-01-15 11:51:29,838] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:51:29,838] INFO in run: ============================================================
+[2026-01-15 11:51:29,840] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:51:30,520] INFO in logging_config: Logging system initialized
+[2026-01-15 11:51:30,601] INFO in app: Database tables created
+[2026-01-15 11:51:37,282] INFO in app: Application initialized in development mode
+[2026-01-15 11:51:37,282] INFO in run: ============================================================
+[2026-01-15 11:51:37,282] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 11:51:37,282] INFO in run: ============================================================
+[2026-01-15 11:51:37,295] INFO in run: Environment: development
+[2026-01-15 11:51:37,295] INFO in run: Debug Mode: True
+[2026-01-15 11:51:37,295] INFO in run: Model Version: 1.0.0
+[2026-01-15 11:51:37,298] INFO in run: Model Loaded: True
+[2026-01-15 11:51:37,299] INFO in run: Database: Connected
+[2026-01-15 11:51:37,300] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 11:51:37,301] INFO in run: ============================================================
+[2026-01-15 11:51:37,302] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 11:51:56,863] ERROR in routes: Database Error: (psycopg2.errors.NotNullViolation) null value in column "prediction_horizon" of relation "predictions" violates not-null constraint
+DETAIL:  Failing row contains (14, 2026-01-15 09:51:56.846313, Transformer_01, [5000, 15200, 14800, 15500, 16000, 16200, 15900, 15700, 15000, 1..., null, 15132.0634765625, null, null, 0.23948791387489765, minimal, f, f, null, 1.0.0, null, null).
+
+[SQL: INSERT INTO predictions (timestamp, asset_id, historical_load, temperature, predicted_load, prediction_horizon, actual_load, risk_score, risk_level, anomaly_detected, maintenance_recommended, maintenance_priority, model_version, absolute_error, percentage_error) VALUES (%(timestamp)s, %(asset_id)s, %(historical_load)s, %(temperature)s, %(predicted_load)s, %(prediction_horizon)s, %(actual_load)s, %(risk_score)s, %(risk_level)s, %(anomaly_detected)s, %(maintenance_recommended)s, %(maintenance_priority)s, %(model_version)s, %(absolute_error)s, %(percentage_error)s) RETURNING predictions.id]
+[parameters: {'timestamp': datetime.datetime(2026, 1, 15, 9, 51, 56, 846313), 'asset_id': 'Transformer_01', 'historical_load': '[5000, 15200, 14800, 15500, 16000, 16200, 15900, 15700, 15000, 14500, 14200, 14000, 14500, 15000, 16000, 17000, 17500, 18000, 17800, 17500, 17000, 16500, 16000, 15500]', 'temperature': None, 'predicted_load': 15132.0634765625, 'prediction_horizon': None, 'actual_load': None, 'risk_score': 0.23948791387489765, 'risk_level': 'minimal', 'anomaly_detected': False, 'maintenance_recommended': False, 'maintenance_priority': None, 'model_version': '1.0.0', 'absolute_error': None, 'percentage_error': None}]
+(Background on this error at: https://sqlalche.me/e/20/gkpj)
+[2026-01-15 12:08:07,127] INFO in logging_config: Logging system initialized
+[2026-01-15 12:08:07,222] INFO in app: Database tables created
+[2026-01-15 12:08:16,038] INFO in app: Application initialized in development mode
+[2026-01-15 12:08:16,038] INFO in run: ============================================================
+[2026-01-15 12:08:16,038] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 12:08:16,038] INFO in run: ============================================================
+[2026-01-15 12:08:16,038] INFO in run: Environment: development
+[2026-01-15 12:08:16,053] INFO in run: Debug Mode: True
+[2026-01-15 12:08:16,053] INFO in run: Model Version: 1.0.0
+[2026-01-15 12:08:16,053] INFO in run: Model Loaded: True
+[2026-01-15 12:08:16,056] INFO in run: Database: Connected
+[2026-01-15 12:08:16,056] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 12:08:16,056] INFO in run: ============================================================
+[2026-01-15 12:08:16,056] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 12:08:26,837] INFO in routes: Successfully saved prediction ID: 15
+[2026-01-15 12:16:45,120] INFO in routes: Successfully saved prediction ID: 16
+[2026-01-15 12:18:24,254] INFO in routes: Successfully saved prediction ID: 17
+[2026-01-15 12:20:27,014] INFO in routes: Successfully saved prediction ID: 18
+[2026-01-15 12:20:32,286] INFO in routes: Successfully saved prediction ID: 19
+[2026-01-15 12:20:36,893] INFO in routes: Successfully saved prediction ID: 20
+[2026-01-15 12:22:37,657] INFO in routes: Successfully saved prediction ID: 21
+[2026-01-15 14:39:39,297] INFO in routes: Successfully saved prediction ID: 22
+[2026-01-15 14:39:41,897] INFO in routes: Successfully saved prediction ID: 23
+[2026-01-15 14:39:42,730] INFO in routes: Successfully saved prediction ID: 24
+[2026-01-15 14:39:43,496] INFO in routes: Successfully saved prediction ID: 25
+[2026-01-15 14:44:45,684] INFO in routes: Successfully saved prediction ID: 26
+[2026-01-15 15:08:37,816] INFO in logging_config: Logging system initialized
+[2026-01-15 15:08:37,885] INFO in app: Database tables created
+[2026-01-15 15:08:44,789] INFO in app: Application initialized in development mode
+[2026-01-15 15:08:44,789] INFO in run: ============================================================
+[2026-01-15 15:08:44,789] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 15:08:44,789] INFO in run: ============================================================
+[2026-01-15 15:08:44,789] INFO in run: Environment: development
+[2026-01-15 15:08:44,797] INFO in run: Debug Mode: True
+[2026-01-15 15:08:44,797] INFO in run: Model Version: 1.0.0
+[2026-01-15 15:08:44,799] INFO in run: Model Loaded: True
+[2026-01-15 15:08:44,800] INFO in run: Database: Connected
+[2026-01-15 15:08:44,801] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 15:08:44,801] INFO in run: ============================================================
+[2026-01-15 15:08:44,804] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 15:08:45,484] INFO in logging_config: Logging system initialized
+[2026-01-15 15:08:45,548] INFO in app: Database tables created
+[2026-01-15 15:08:51,716] INFO in app: Application initialized in development mode
+[2026-01-15 15:08:51,716] INFO in run: ============================================================
+[2026-01-15 15:08:51,716] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 15:08:51,716] INFO in run: ============================================================
+[2026-01-15 15:08:51,716] INFO in run: Environment: development
+[2026-01-15 15:08:51,716] INFO in run: Debug Mode: True
+[2026-01-15 15:08:51,716] INFO in run: Model Version: 1.0.0
+[2026-01-15 15:08:51,716] INFO in run: Model Loaded: True
+[2026-01-15 15:08:51,716] INFO in run: Database: Connected
+[2026-01-15 15:08:51,716] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 15:08:51,727] INFO in run: ============================================================
+[2026-01-15 15:08:51,727] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-01-15 15:23:37,578] INFO in routes: Successfully saved prediction ID: 27
+[2026-01-15 15:25:10,480] INFO in routes: Successfully saved prediction ID: 28
+[2026-01-15 15:25:37,821] INFO in routes: Successfully saved prediction ID: 29
+[2026-01-15 15:32:37,280] INFO in logging_config: Logging system initialized
+[2026-01-15 15:32:37,354] INFO in app: Database tables created
+[2026-01-15 15:32:43,812] INFO in app: Application initialized in development mode
+[2026-01-15 15:32:43,812] INFO in run: ============================================================
+[2026-01-15 15:32:43,812] INFO in run: Smart Grid Predictive Maintenance System
+[2026-01-15 15:32:43,812] INFO in run: ============================================================
+[2026-01-15 15:32:43,812] INFO in run: Environment: development
+[2026-01-15 15:32:43,812] INFO in run: Debug Mode: True
+[2026-01-15 15:32:43,812] INFO in run: Model Version: 1.0.0
+[2026-01-15 15:32:43,812] INFO in run: Model Loaded: True
+[2026-01-15 15:32:43,824] INFO in run: Database: Connected
+[2026-01-15 15:32:43,826] INFO in run: Server: http://0.0.0.0:5000
+[2026-01-15 15:32:43,826] INFO in run: ============================================================
+[2026-01-15 15:32:43,826] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 08:20:37,967] INFO in logging_config: Logging system initialized
+[2026-02-12 08:20:38,209] INFO in app: Database tables created
+[2026-02-12 08:20:45,973] INFO in app: Application initialized in development mode
+[2026-02-12 08:20:45,976] INFO in run: ============================================================
+[2026-02-12 08:20:45,977] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 08:20:45,977] INFO in run: ============================================================
+[2026-02-12 08:20:45,978] INFO in run: Environment: development
+[2026-02-12 08:20:45,978] INFO in run: Debug Mode: True
+[2026-02-12 08:20:45,978] INFO in run: Model Version: 1.0.0
+[2026-02-12 08:20:45,979] INFO in run: Model Loaded: False
+[2026-02-12 08:20:45,979] INFO in run: Database: Connected
+[2026-02-12 08:20:45,980] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 08:20:45,980] INFO in run: ============================================================
+[2026-02-12 08:20:45,981] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 08:20:47,028] INFO in logging_config: Logging system initialized
+[2026-02-12 08:20:47,214] INFO in app: Database tables created
+[2026-02-12 08:20:53,146] INFO in app: Application initialized in development mode
+[2026-02-12 08:20:53,148] INFO in run: ============================================================
+[2026-02-12 08:20:53,148] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 08:20:53,150] INFO in run: ============================================================
+[2026-02-12 08:20:53,150] INFO in run: Environment: development
+[2026-02-12 08:20:53,151] INFO in run: Debug Mode: True
+[2026-02-12 08:20:53,152] INFO in run: Model Version: 1.0.0
+[2026-02-12 08:20:53,153] INFO in run: Model Loaded: False
+[2026-02-12 08:20:53,153] INFO in run: Database: Connected
+[2026-02-12 08:20:53,154] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 08:20:53,155] INFO in run: ============================================================
+[2026-02-12 08:20:53,155] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 08:24:19,349] INFO in logging_config: Logging system initialized
+[2026-02-12 08:24:19,435] INFO in app: Database tables created
+[2026-02-12 08:24:24,405] INFO in app: Application initialized in development mode
+[2026-02-12 08:24:24,407] INFO in run: ============================================================
+[2026-02-12 08:24:24,407] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 08:24:24,408] INFO in run: ============================================================
+[2026-02-12 08:24:24,408] INFO in run: Environment: development
+[2026-02-12 08:24:24,409] INFO in run: Debug Mode: True
+[2026-02-12 08:24:24,409] INFO in run: Model Version: 1.0.0
+[2026-02-12 08:24:24,410] INFO in run: Model Loaded: True
+[2026-02-12 08:24:24,410] INFO in run: Database: Connected
+[2026-02-12 08:24:24,411] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 08:24:24,411] INFO in run: ============================================================
+[2026-02-12 08:24:24,412] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 08:24:25,291] INFO in logging_config: Logging system initialized
+[2026-02-12 08:24:25,462] INFO in app: Database tables created
+[2026-02-12 08:24:30,239] INFO in app: Application initialized in development mode
+[2026-02-12 08:24:30,240] INFO in run: ============================================================
+[2026-02-12 08:24:30,241] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 08:24:30,241] INFO in run: ============================================================
+[2026-02-12 08:24:30,241] INFO in run: Environment: development
+[2026-02-12 08:24:30,242] INFO in run: Debug Mode: True
+[2026-02-12 08:24:30,242] INFO in run: Model Version: 1.0.0
+[2026-02-12 08:24:30,243] INFO in run: Model Loaded: True
+[2026-02-12 08:24:30,243] INFO in run: Database: Connected
+[2026-02-12 08:24:30,244] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 08:24:30,245] INFO in run: ============================================================
+[2026-02-12 08:24:30,245] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 08:30:08,922] INFO in routes: Successfully saved prediction ID: 30
+[2026-02-12 08:35:40,576] ERROR in routes: Global Pipeline Crash: unsupported operand type(s) for +: 'int' and 'NoneType'
+[2026-02-12 08:50:50,276] INFO in logging_config: Logging system initialized
+[2026-02-12 08:50:50,338] INFO in app: Database tables created
+[2026-02-12 08:50:57,251] INFO in app: Application initialized in development mode
+[2026-02-12 08:50:57,253] INFO in run: ============================================================
+[2026-02-12 08:50:57,253] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 08:50:57,254] INFO in run: ============================================================
+[2026-02-12 08:50:57,255] INFO in run: Environment: development
+[2026-02-12 08:50:57,255] INFO in run: Debug Mode: True
+[2026-02-12 08:50:57,256] INFO in run: Model Version: 1.0.0
+[2026-02-12 08:50:57,257] INFO in run: Model Loaded: True
+[2026-02-12 08:50:57,258] INFO in run: Database: Connected
+[2026-02-12 08:50:57,258] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 08:50:57,259] INFO in run: ============================================================
+[2026-02-12 08:50:57,260] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 08:53:14,455] INFO in logging_config: Logging system initialized
+[2026-02-12 08:53:14,519] INFO in app: Database tables created
+[2026-02-12 08:53:19,389] INFO in app: Application initialized in development mode
+[2026-02-12 08:53:19,391] INFO in run: ============================================================
+[2026-02-12 08:53:19,392] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 08:53:19,392] INFO in run: ============================================================
+[2026-02-12 08:53:19,393] INFO in run: Environment: development
+[2026-02-12 08:53:19,393] INFO in run: Debug Mode: True
+[2026-02-12 08:53:19,394] INFO in run: Model Version: 1.0.0
+[2026-02-12 08:53:19,394] INFO in run: Model Loaded: True
+[2026-02-12 08:53:19,395] INFO in run: Database: Connected
+[2026-02-12 08:53:19,395] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 08:53:19,396] INFO in run: ============================================================
+[2026-02-12 08:53:19,396] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 09:00:42,142] INFO in logging_config: Logging system initialized
+[2026-02-12 09:00:42,272] INFO in app: Database tables created
+[2026-02-12 09:00:47,818] INFO in app: Application initialized in development mode
+[2026-02-12 09:00:47,819] INFO in run: ============================================================
+[2026-02-12 09:00:47,820] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 09:00:47,820] INFO in run: ============================================================
+[2026-02-12 09:00:47,820] INFO in run: Environment: development
+[2026-02-12 09:00:47,821] INFO in run: Debug Mode: True
+[2026-02-12 09:00:47,822] INFO in run: Model Version: 1.0.0
+[2026-02-12 09:00:47,822] INFO in run: Model Loaded: True
+[2026-02-12 09:00:47,822] INFO in run: Database: Connected
+[2026-02-12 09:00:47,823] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 09:00:47,823] INFO in run: ============================================================
+[2026-02-12 09:00:47,823] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 09:00:47,885] ERROR in routes: Performance metrics error: 'minimal' is not among the defined enum values. Enum name: risklevel. Possible values: LOW, MEDIUM, HIGH, CRITICAL
+[2026-02-12 09:02:47,187] ERROR in routes: Performance metrics error: 'minimal' is not among the defined enum values. Enum name: risklevel. Possible values: LOW, MEDIUM, HIGH, CRITICAL
+[2026-02-12 09:04:47,187] ERROR in routes: Performance metrics error: 'minimal' is not among the defined enum values. Enum name: risklevel. Possible values: LOW, MEDIUM, HIGH, CRITICAL
+[2026-02-12 09:05:06,001] INFO in logging_config: Logging system initialized
+[2026-02-12 09:05:06,072] INFO in app: Database tables created
+[2026-02-12 09:05:11,279] INFO in app: Application initialized in development mode
+[2026-02-12 09:05:11,280] INFO in run: ============================================================
+[2026-02-12 09:05:11,281] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 09:05:11,281] INFO in run: ============================================================
+[2026-02-12 09:05:11,282] INFO in run: Environment: development
+[2026-02-12 09:05:11,282] INFO in run: Debug Mode: True
+[2026-02-12 09:05:11,283] INFO in run: Model Version: 1.0.0
+[2026-02-12 09:05:11,283] INFO in run: Model Loaded: True
+[2026-02-12 09:05:11,284] INFO in run: Database: Connected
+[2026-02-12 09:05:11,284] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 09:05:11,285] INFO in run: ============================================================
+[2026-02-12 09:05:11,286] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 09:05:28,455] ERROR in routes: Performance metrics error: 'minimal' is not among the defined enum values. Enum name: risklevel. Possible values: MINIMAL, LOW, MEDIUM, ..., CRITICAL
+[2026-02-12 09:06:29,185] ERROR in routes: Performance metrics error: 'minimal' is not among the defined enum values. Enum name: risklevel. Possible values: MINIMAL, LOW, MEDIUM, ..., CRITICAL
+[2026-02-12 09:10:54,119] INFO in logging_config: Logging system initialized
+[2026-02-12 09:10:54,195] INFO in app: Database tables created
+[2026-02-12 09:10:59,228] INFO in app: Application initialized in development mode
+[2026-02-12 09:10:59,230] INFO in run: ============================================================
+[2026-02-12 09:10:59,230] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 09:10:59,231] INFO in run: ============================================================
+[2026-02-12 09:10:59,231] INFO in run: Environment: development
+[2026-02-12 09:10:59,231] INFO in run: Debug Mode: True
+[2026-02-12 09:10:59,232] INFO in run: Model Version: 1.0.0
+[2026-02-12 09:10:59,232] INFO in run: Model Loaded: True
+[2026-02-12 09:10:59,232] INFO in run: Database: Connected
+[2026-02-12 09:10:59,233] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 09:10:59,233] INFO in run: ============================================================
+[2026-02-12 09:10:59,233] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 09:11:00,071] INFO in logging_config: Logging system initialized
+[2026-02-12 09:11:00,146] INFO in app: Database tables created
+[2026-02-12 09:11:04,748] INFO in app: Application initialized in development mode
+[2026-02-12 09:11:04,749] INFO in run: ============================================================
+[2026-02-12 09:11:04,749] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 09:11:04,750] INFO in run: ============================================================
+[2026-02-12 09:11:04,750] INFO in run: Environment: development
+[2026-02-12 09:11:04,750] INFO in run: Debug Mode: True
+[2026-02-12 09:11:04,751] INFO in run: Model Version: 1.0.0
+[2026-02-12 09:11:04,751] INFO in run: Model Loaded: True
+[2026-02-12 09:11:04,751] INFO in run: Database: Connected
+[2026-02-12 09:11:04,751] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 09:11:04,752] INFO in run: ============================================================
+[2026-02-12 09:11:04,752] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 09:13:19,851] INFO in logging_config: Logging system initialized
+[2026-02-12 09:13:20,030] INFO in app: Database tables created
+[2026-02-12 09:13:25,478] INFO in app: Application initialized in development mode
+[2026-02-12 09:13:25,479] INFO in run: ============================================================
+[2026-02-12 09:13:25,480] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 09:13:25,480] INFO in run: ============================================================
+[2026-02-12 09:13:25,481] INFO in run: Environment: development
+[2026-02-12 09:13:25,482] INFO in run: Debug Mode: True
+[2026-02-12 09:13:25,482] INFO in run: Model Version: 1.0.0
+[2026-02-12 09:13:25,483] INFO in run: Model Loaded: True
+[2026-02-12 09:13:25,484] INFO in run: Database: Connected
+[2026-02-12 09:13:25,484] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 09:13:25,485] INFO in run: ============================================================
+[2026-02-12 09:13:25,486] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 09:13:36,895] INFO in logging_config: Logging system initialized
+[2026-02-12 09:13:36,973] INFO in app: Database tables created
+[2026-02-12 09:13:41,385] INFO in app: Application initialized in development mode
+[2026-02-12 09:16:33,685] INFO in logging_config: Logging system initialized
+[2026-02-12 09:16:33,866] INFO in app: Database tables created
+[2026-02-12 09:16:38,595] INFO in app: Application initialized in development mode
+[2026-02-12 09:16:38,596] INFO in run: ============================================================
+[2026-02-12 09:16:38,597] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 09:16:38,597] INFO in run: ============================================================
+[2026-02-12 09:16:38,597] INFO in run: Environment: development
+[2026-02-12 09:16:38,598] INFO in run: Debug Mode: True
+[2026-02-12 09:16:38,598] INFO in run: Model Version: 1.0.0
+[2026-02-12 09:16:38,599] INFO in run: Model Loaded: True
+[2026-02-12 09:16:38,599] INFO in run: Database: Connected
+[2026-02-12 09:16:38,600] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 09:16:38,601] INFO in run: ============================================================
+[2026-02-12 09:16:38,601] WARNING in run: Running in DEBUG mode - NOT suitable for production!
+[2026-02-12 09:16:39,349] INFO in logging_config: Logging system initialized
+[2026-02-12 09:16:39,421] INFO in app: Database tables created
+[2026-02-12 09:16:43,946] INFO in app: Application initialized in development mode
+[2026-02-12 09:16:43,947] INFO in run: ============================================================
+[2026-02-12 09:16:43,947] INFO in run: Smart Grid Predictive Maintenance System
+[2026-02-12 09:16:43,947] INFO in run: ============================================================
+[2026-02-12 09:16:43,948] INFO in run: Environment: development
+[2026-02-12 09:16:43,948] INFO in run: Debug Mode: True
+[2026-02-12 09:16:43,948] INFO in run: Model Version: 1.0.0
+[2026-02-12 09:16:43,948] INFO in run: Model Loaded: True
+[2026-02-12 09:16:43,949] INFO in run: Database: Connected
+[2026-02-12 09:16:43,949] INFO in run: Server: http://0.0.0.0:5000
+[2026-02-12 09:16:43,949] INFO in run: ============================================================
+[2026-02-12 09:16:43,949] WARNING in run: Running in DEBUG mode - NOT suitable for production!
