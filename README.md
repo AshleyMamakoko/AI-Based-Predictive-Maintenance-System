@@ -1,14 +1,3 @@
-Ashley — this README is structured for:
-
-Professional GitHub presentation
-
-Recruiter visibility
-
-Academic submission clarity
-
-Clean technical credibility (no inflated claims)
-
-You can paste this directly into README.md.
 
 ⚡ Smart Grid Predictive Maintenance System
 
@@ -281,3 +270,4 @@ Mobile interface for technicians
 
 Ashley Mamakoko
 AI / Machine Learning & Systems Engineering
+
